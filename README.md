@@ -12,7 +12,6 @@ Os objetivos principais deste projeto são:
 
 - Implementar um simulador de gerenciamento de memória com paginação.
 - Demonstrar o funcionamento de algoritmos de substituição de páginas.
-- Facilitar a compreensão dos conceitos teóricos por meio de uma ferramenta prática.
 - Proporcionar uma base para experimentação e aprendizado sobre o gerenciamento de memória em sistemas operacionais.
 
 ## Funcionalidades
